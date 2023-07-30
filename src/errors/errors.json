@@ -1,0 +1,14 @@
+{
+  "default": {
+    "status": 400,
+    "message": "Unknown error."
+  },
+  "cpf_not_found": {
+    "status": 404,
+    "message": "CPF not found."
+  },
+  "freight_not_found": {
+    "status": 404,
+    "message": "Freight trucker not found."
+  }
+}

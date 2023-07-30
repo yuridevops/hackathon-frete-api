@@ -1,0 +1,140 @@
+[
+  {
+    "cpf": "00000000000",
+    "nome": "Maria Souza",
+    "score": 680,
+    "pendencias": [
+      {
+        "descricao": "Empréstimo atrasado",
+        "valor": 2000.0,
+        "data_vencimento": "2023-09-10"
+      },
+      {
+        "descricao": "Conta de telefone não paga",
+        "valor": 150.5,
+        "data_vencimento": "2023-08-25"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-28"
+  },
+  {
+    "cpf": "11111111111",
+    "nome": "Pedro Oliveira",
+    "score": 820,
+    "pendencias": [],
+    "ultima_atualizacao": "2023-07-27"
+  },
+  {
+    "cpf": "22222222222",
+    "nome": "Ana Santos",
+    "score": 450,
+    "pendencias": [
+      {
+        "descricao": "Cartão de crédito vencido",
+        "valor": 450.0,
+        "data_vencimento": "2023-08-05"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-28"
+  },
+  {
+    "cpf": "33333333333",
+    "nome": "Carlos Silva",
+    "score": 720,
+    "pendencias": [
+      {
+        "descricao": "Parcela de empréstimo atrasada",
+        "valor": 800.0,
+        "data_vencimento": "2023-08-10"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-28"
+  },
+  {
+    "cpf": "44444444444",
+    "nome": "Laura Ferreira",
+    "score": 890,
+    "pendencias": [
+      {
+        "descricao": "Dívida de cartão de crédito",
+        "valor": 1200.0,
+        "data_vencimento": "2023-08-20"
+      },
+      {
+        "descricao": "Cheque devolvido",
+        "valor": 300.0,
+        "data_vencimento": "2023-08-05"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-29"
+  },
+  {
+    "cpf": "55555555555",
+    "nome": "Rafael Gonçalves",
+    "score": 600,
+    "pendencias": [
+      {
+        "descricao": "Empréstimo não quitado",
+        "valor": 3000.0,
+        "data_vencimento": "2023-09-15"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-27"
+  },
+  {
+    "cpf": "66666666666",
+    "nome": "Julia Rodrigues",
+    "score": 780,
+    "pendencias": [],
+    "ultima_atualizacao": "2023-07-28"
+  },
+  {
+    "cpf": "77777777777",
+    "nome": "Fernando Almeida",
+    "score": 520,
+    "pendencias": [
+      {
+        "descricao": "Fatura de cartão não paga",
+        "valor": 850.0,
+        "data_vencimento": "2023-08-10"
+      },
+      {
+        "descricao": "Empréstimo atrasado",
+        "valor": 1000.0,
+        "data_vencimento": "2023-09-05"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-28"
+  },
+  {
+    "cpf": "88888888888",
+    "nome": "Isabela Oliveira",
+    "score": 890,
+    "pendencias": [
+      {
+        "descricao": "Parcela de financiamento não paga",
+        "valor": 450.0,
+        "data_vencimento": "2023-08-05"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-29"
+  },
+  {
+    "cpf": "99999999999",
+    "nome": "Mariana Santos",
+    "score": 700,
+    "pendencias": [
+      {
+        "descricao": "Dívida de cartão de crédito",
+        "valor": 650.0,
+        "data_vencimento": "2023-08-10"
+      },
+      {
+        "descricao": "Conta de luz não paga",
+        "valor": 80.0,
+        "data_vencimento": "2023-08-20"
+      }
+    ],
+    "ultima_atualizacao": "2023-07-29"
+  }
+]
