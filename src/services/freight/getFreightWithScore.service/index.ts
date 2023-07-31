@@ -25,8 +25,6 @@ export class GetFreightWithScoreService {
         cpf: freight.person.cpf,
       })
 
-      console.log(freight)
-
       delete freight.person
       delete freight.id
 

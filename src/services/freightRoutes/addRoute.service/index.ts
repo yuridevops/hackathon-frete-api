@@ -14,7 +14,6 @@ export class AddRouteService {
 
       return freightRoute
     } catch (err) {
-      console.log(err)
       const error = errors[err?.message] ?? errors.default
 
       throw error

@@ -16,7 +16,6 @@ export class ReceiveAmountService {
 
       return updateResult
     } catch (err) {
-      console.log(err)
       const error = errors[err?.message] ?? errors.default
 
       throw error
